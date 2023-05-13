@@ -87,6 +87,24 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Output:
 ![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
+![Screenshot (161)](https://github.com/VelasiriSreeja/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118344328/397d150a-5654-4325-b0c3-8e2ee6c7872d)
+
+![Uploading Screenshot (172).png…]()
+
+
+![Screenshot (162)](https://github.com/VelasiriSreeja/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118344328/e3c6a3ca-67a8-4b03-af7c-66b267afbb87)
+
+![Screenshot (164)](https://github.com/VelasiriSreeja/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118344328/4e146e22-d488-4d6b-83c9-99293626b4bd)
+
+
+
+![Screenshot (166)](https://github.com/VelasiriSreeja/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118344328/77e24ac6-7807-4820-bfda-046ad33dbf0e)
+
+![Screenshot (167)](https://github.com/VelasiriSreeja/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118344328/2b432b2d-a649-49c4-ab47-038431c4a5c7)
+
+![Screenshot (168)](https://github.com/VelasiriSreeja/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118344328/203873af-3f57-4f43-8bd6-e58c1eb932f1)
+
+![Screenshot (169)](https://github.com/VelasiriSreeja/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118344328/2eaf384f-87ca-41e0-a71d-75892ee53d9a)
 
 
 ## Result:
