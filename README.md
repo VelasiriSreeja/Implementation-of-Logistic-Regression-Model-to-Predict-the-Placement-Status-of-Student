@@ -128,8 +128,6 @@ classification report:
 ![Screenshot (169)](https://github.com/VelasiriSreeja/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118344328/2eaf384f-87ca-41e0-a71d-75892ee53d9a)
 
 
-prediction of LR:
-
 ![Screenshot (188)](https://github.com/VelasiriSreeja/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118344328/b6389cab-2da7-46e5-9d1b-9481ec7877ce)
 
 
