@@ -120,15 +120,16 @@ accuracy value:
 ![Screenshot (167)](https://github.com/VelasiriSreeja/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118344328/2b432b2d-a649-49c4-ab47-038431c4a5c7)
 
 confusion array:
+
 ![Screenshot (168)](https://github.com/VelasiriSreeja/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118344328/203873af-3f57-4f43-8bd6-e58c1eb932f1)
 
 
-classification array:
+classification report:
 
 ![Screenshot (169)](https://github.com/VelasiriSreeja/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118344328/2eaf384f-87ca-41e0-a71d-75892ee53d9a)
 
 
-classification report:
+prediction of LR:
 
 ![Screenshot (188)](https://github.com/VelasiriSreeja/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118344328/b6389cab-2da7-46e5-9d1b-9481ec7877ce)
 
