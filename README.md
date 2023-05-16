@@ -98,6 +98,12 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 
 
+
+
+![Screenshot (186)](https://github.com/VelasiriSreeja/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118344328/9c5a468f-7ef0-41e0-9fce-dce49471e8f6)
+
+
+
 ![Screenshot (166)](https://github.com/VelasiriSreeja/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118344328/77e24ac6-7807-4820-bfda-046ad33dbf0e)
 
 ![Screenshot (167)](https://github.com/VelasiriSreeja/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118344328/2b432b2d-a649-49c4-ab47-038431c4a5c7)
