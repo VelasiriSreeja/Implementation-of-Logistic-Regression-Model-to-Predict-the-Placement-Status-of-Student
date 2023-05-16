@@ -112,7 +112,6 @@ data status:
 ![Screenshot (186)](https://github.com/VelasiriSreeja/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118344328/9c5a468f-7ef0-41e0-9fce-dce49471e8f6)
 
 
-yprediction array:
 ![Screenshot (166)](https://github.com/VelasiriSreeja/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118344328/77e24ac6-7807-4820-bfda-046ad33dbf0e)
 
 accuracy value:
